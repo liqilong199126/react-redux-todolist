@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-todolist",
+  "version": "1.0.0",
+  "description": "A simple todolist created by react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqilong199126/react-redux-todolist.git"
+  },
+  "keywords": [
+    "redux",
+    "react"
+  ],
+  "author": "liqilong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liqilong199126/react-redux-todolist/issues"
+  },
+  "homepage": "https://github.com/liqilong199126/react-redux-todolist#readme"
+}
